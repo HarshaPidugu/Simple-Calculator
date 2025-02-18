@@ -1,2 +1,4 @@
 # Simple-Calculator
-web-based calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations
+web-based calculator built using HTML, CSS, and JavaScript. 
+It allows users to perform basic arithmetic operations
+
