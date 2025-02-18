@@ -5,3 +5,5 @@
 web-based calculator built using HTML, CSS, and JavaScript. 
 It allows users to perform basic arithmetic operations
 
+Project Link: https://simple-calculator-beta-navy.vercel.app/
+
